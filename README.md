@@ -61,4 +61,29 @@ Hi, I'm <b>Melokuhle Mazibuko</b>, an aspiring Software Tester with a strong dev
 
 ---
 
+## 🚀 Current Focus
+
+Currently pursuing ISTQB CTFL certification and working on automation skills to enhance my software testing expertise.
+
+---
+
+## 📂 Projects
+
+- [Lost & Found App](https://github.com/melokuhlemazii/lost-found-app)
+- [Portfolio](https://github.com/melokuhlemazii/portfolio)
+
+---
+
+## 📚 Learning Journey
+
+Exploring automation frameworks, backend development, and new testing tools to expand my skillset and deliver robust solutions.
+
+---
+
+## ✨ Fun Touch
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
 <p align="center"><i>Thank you for visiting my profile!</i></p>
