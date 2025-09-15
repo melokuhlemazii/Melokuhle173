@@ -1,15 +1,15 @@
 
-<h1 align="center">👋 Hi, I'm <b>Melokuhle</b></h1>
+<h1 align="center">👋 Hi, I'm <b>Melokuhle Mazibuko</b></h1>
 
 <p align="center">
-  <b>Full-Stack Developer | Tech Enthusiast | Lifelong Learner</b>
+  <b>Aspiring Software Tester | Lifelong Learner</b>
 </p>
 
 ---
 
 ## 📝 About Me
 
-Hi, I'm <b>Melokuhle</b>, a passionate full-stack developer and technology enthusiast. I love building impactful solutions that bridge technology, education, and accessibility. My journey is driven by curiosity, creativity, and a commitment to continuous learning and community empowerment.
+Hi, I'm <b>Melokuhle Mazibuko</b>, an aspiring Software Tester with a strong developer background. I love building impactful solutions that bridge technology, education, and accessibility. My journey is driven by curiosity, creativity, and a commitment to continuous learning and community empowerment.
 
 ---
 
