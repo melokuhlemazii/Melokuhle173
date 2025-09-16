@@ -7,21 +7,24 @@
 
 ---
 
-## 📝 About Me
+## About Me
 
 Hi, I'm <b>Melokuhle Mazibuko</b>, a final year Bachelor of ICT student and an aspiring Software Tester with a strong developer background. I love building impactful solutions that bridge technology, education, and accessibility. My journey is driven by curiosity, creativity, and a commitment to continuous learning and community empowerment.
 
 ---
 
-## 🌐 Socials
+## Socials
 
-<!-- Update with your actual links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melokuhle-mazibuko)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/melokuhle-mazii)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/melokuhle-ntuthuko)
 
 
 ---
 
-## 💻 Tech Stack
+## Technical Skills
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -40,7 +43,7 @@ Hi, I'm <b>Melokuhle Mazibuko</b>, a final year Bachelor of ICT student and an a
 
 ---
 
-## 🧠 Soft Skills
+## Soft Skills
 
 - Excellent communication and collaboration
 - Creative problem-solving
@@ -68,7 +71,7 @@ Exploring automation frameworks, front-end and backend development, and new test
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=melokuhlemazii&show_icons=true&theme=radical" alt="Melokuhle's GitHub stats"/>
