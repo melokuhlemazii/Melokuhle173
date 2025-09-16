@@ -17,7 +17,6 @@ Hi, I'm <b>Melokuhle Mazibuko</b>, a final year Bachelor of ICT student and an a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melokuhle-mazibuko)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/melokuhle_mazii)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/melokuhle-ntuthuko)
 
 
 ---
