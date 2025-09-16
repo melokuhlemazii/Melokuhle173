@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hi, I'm <b>Melokuhle Mazibuko</b></h1>
+<h1 align="center">Hi, I'm <b>Melokuhle Mazibuko</b></h1>
 
 <p align="center">
   <b>Aspiring Software Tester | Lifelong Learner</b>
