@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm <b>Melokuhle Mazibuko</b></h1>
 
 <p align="center">
-  <b>Aspiring Software Tester | Lifelong Learner</b>
+  <b>Exploring Full-Stack & Quality Engineering | Lifelong Learner</b>
 </p>
 
 ---
@@ -63,7 +63,7 @@ Currently pursuing the ISTQB CTFL certification and building automation skills t
 
 ## Learning Journey
 
-Exploring automation frameworks, front-end and backend development, and new testing tools to expand my skillset and deliver robust solutions.
+Exploring front-end and back-end development to strengthen my technical foundation as I work towards a career in software testing. I’m currently building projects using HTML, CSS, JavaScript, React, and Flask to understand how applications function from end to end.
 
 ---
 
