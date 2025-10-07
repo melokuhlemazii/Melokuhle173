@@ -69,11 +69,22 @@ Exploring automation frameworks, front-end and backend development, and new test
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melokuhlemazii&show_icons=true&theme=radical" alt="Melokuhle's GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melokuhlemazii&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=melokuhlemazii&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Melokuhle's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melokuhlemazii&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melokuhlemazii&theme=radical" alt="GitHub Streak Stats" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melokuhlemazii&theme=radical" alt="GitHub Profile Summary"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=melokuhlemazii&theme=redical&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
 
 ---
 
